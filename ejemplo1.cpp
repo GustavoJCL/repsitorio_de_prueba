@@ -17,7 +17,7 @@ int main (){
         cout<<endl<<"Digite un numero entero positivo: ";
         cin>>n;
         if(n < 0)
-            cout<<endl<<"-> error, ingreso valor negativo, intente de nuevo..";
+            cout<<endl<<"-> error, ingreso valor negativo, intente de nuevo.. XD";
     } while(n<0);
     
     //Calcular y visualizar el factorial 
